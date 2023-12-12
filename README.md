@@ -9,5 +9,5 @@ ThreeJS is a JavaScript library in which you can manipulate objects to transform
 - Animation and Positioning
 - Perspective Camera (FOV, Aspect Ratio, & Clipping Planes)
 
-### Deliverables
-Vanilla + JavaSript
+### Stack
+Vanilla
